@@ -1,0 +1,13 @@
+{
+  "name": "send_secret_santa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "secret_santa.js",
+  "keywords": [],
+  "author": "John Work",
+  "license": "ISC",
+  "devDependencies": {
+    "fast-csv": "^2.4.1",
+    "nodemailer": "^4.4.1"
+  }
+}
