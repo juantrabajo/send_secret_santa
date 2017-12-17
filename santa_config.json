@@ -1,0 +1,7 @@
+{
+  "file":"your_csv_name_here.csv",
+  "sender":"some_email@gmail.com",
+  "sender_pw":"your_password",
+  "subject":"Secret Santa, man",
+  "body":"<p>That rug really tied the room together.</p>"
+}
